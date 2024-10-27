@@ -11,5 +11,9 @@ Eğer içerisindeki koşul **0** yani **false** ise fonksiyon çalışmaz.
 ## Koşullu yapı türleri
 Koşullu yapılar her yazılım türünde üçe ayrılır.
 Bu türler:
-+ 'If' Her koşullu yapıda olması zorunludur ve hep ilk başta yer alır, eğer anlamına gelmektedir.
-+ 'Elif/Elseif:'
++ **_If_** Her koşullu yapıda olması zorunludur ve hep ilk başta yer alır, eğer anlamına gelmektedir.
++ **_Elif/Elseif_:** Birden fazla olabilir ve eğer ilk baştaki If koşullu yapısı 0'sa devreye girer.
++ **_Else:_** Her koşullu yapıda olması zorunlu değildir ve sonda bulunur. Tüm koşullar 0'sa else koşulu otomatikmen devreye girer, bir koşul yazılmaz.
+
+## Koşullu yapı kodları
+Koşullu yapı kodları yazılım dillerine göre değişir.
