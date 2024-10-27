@@ -3,7 +3,13 @@
 
 Selamlar, bugünkü markdownumda koşullu yapılar konusuna değineceğim.
 
-## Koşullu yapıların tanımı
+## Koşullu yapılar nedir
+İlk olarak değineceğim altbaşlık koşullu yapıların ne olduğudur.
+Koşullu yapılar adı üstünde sadece içerisindeki koşulun **1**, yani **True** olması şartıyla çalışan fonksiyondur.
+Eğer içerisindeki koşul **0** yani **false** ise fonksiyon çalışmaz.
 
-İlk olarak değineceğim altbaşlık koşullu yapıların tanımıdır.
-Koşullu yapılar programlama dünyasında "
+## Koşullu yapı türleri
+Koşullu yapılar her yazılım türünde üçe ayrılır.
+Bu türler:
++ 'If' Her koşullu yapıda olması zorunludur ve hep ilk başta yer alır, eğer anlamına gelmektedir.
++ 'Elif/Elseif:'
