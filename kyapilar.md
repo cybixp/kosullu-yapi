@@ -19,3 +19,4 @@ Bu türler:
 Koşullu yapı kodları yazılım dillerine göre değişir.
 
 [Python](ornek.py)
+[C++](ornek.cpp)
